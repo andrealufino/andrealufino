@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 - [LinkedIn](https://linkedin.com/in/andrealufino)
 - [Stackoverflow](http://stackoverflow.com/users/588967/andrea-mario-lufino)
-- [Instagram](https://instagram.com/al0890
+- [Instagram](https://instagram.com/al0890)
+- [Angel](https://angel.co/u/andrealufino)
