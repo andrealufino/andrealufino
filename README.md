@@ -33,6 +33,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/website-333333" alt="website"/></a>
   <a href="mailto:hello@andrealufino.com">
     <img src="https://img.shields.io/badge/email-333333" alt="email"/></a>
+  <a href="http://github-awards.com/users/andrealufino" target="_blank">
+    <img src="https://img.shields.io/badge/github awards-333333" alt="github awards"/></a>
   <a href="https://angel.co/u/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
   <a href="https://www.quora.com/profile/Andrea-Mario-Lufino" target="_blank">
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 - ⏳ Working on iOS since 2010
 - 🌱 Currently creating my own freelance path, after leaving the empoloyee life. Any help is appreciated!
 - 🥇 iOS and Swift expert
+- 💻 Tech Leadership Consultant
 
 #### Facts
 
