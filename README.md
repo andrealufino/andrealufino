@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🙌🏻 Despite its decline, Objective-C fan 
 - 💼 Harvey Specter fan 
 - 💻 Learning Node
-- 🎸 Hobbist guitarist
+- 🎸 Hobbyist guitarist
 - 🎵 Bruce Springsteen fan
 
 #### Contact me
