@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 - 🎸 Hobbyist guitarist
 - 🎵 Bruce Springsteen fan
 
+<!-- Contacts
+
 #### Contact me
 
 Please, feel free to [contact me](mailto:hello@andrealufino.com) to say hi, to discuss an idea or to propose a business. You can find me also on my [website](https://andrealufino.com). 
+
+-->
