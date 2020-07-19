@@ -67,3 +67,10 @@ Here are some ideas to get you started:
 Please, feel free to [contact me](mailto:hello@andrealufino.com) to say hi, to discuss an idea or to propose a business. You can find me also on my [website](https://andrealufino.com). 
 
 -->
+
+</br>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrealufino&show_icons=true" />
+</p>
