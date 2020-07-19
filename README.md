@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <img src"https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0177b5" alt="linkedin"/></a>
   <a href="http://stackoverflow.com/users/588967/andrea-mario-lufino" target="_blank">
