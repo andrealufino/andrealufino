@@ -31,6 +31,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/stackoverflow-f48024" alt="stackoverflow"/></a>
   <a href="https://andrealufino.com" target="_blank">
     <img src="https://img.shields.io/badge/website-333333" alt="website"/></a>
+  <a href="mailto:hello@andrealufino.com">
+    <img src="https://img.shields.io/badge/email me-333333" alt="email"/></a>
   <a href="https://angel.co/u/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
   <a href="https://www.quora.com/profile/Andrea-Mario-Lufino" target="_blank">
