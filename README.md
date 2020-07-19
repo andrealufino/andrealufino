@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml" width="30%" height="15%" />
+  <img src="https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml" width="24%" height="12%" />
 </p>
 
+<!-- Spaces -->
+<br />
+
+<!-- Socials -->
 <p align="center">
   <a href="https://linkedin.com/in/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0177b5" alt="linkedin"/></a>
