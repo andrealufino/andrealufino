@@ -20,6 +20,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-0177b5" alt="linkedin"/></a>
   <a href="http://stackoverflow.com/users/588967/andrea-mario-lufino">
     <img src="https://img.shields.io/badge/stackoverflow-f48024" alt="stackoverflow"/></a>
+  <a href="https://andrealufino.com">
+    <img src="https://img.shields.io/badge/website-333333" alt="website"/></a>
   <a href="https://angel.co/u/andrealufino">
     <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
   <a href="https://www.quora.com/profile/Andrea-Mario-Lufino">
