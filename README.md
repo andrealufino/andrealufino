@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+<!-- ### Hi there 👋🏻 -->
 
 <!--
 **andrealufino/andrealufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://linkedin.com/in/andrealufino">
+    <img src="https://img.shields.io/badge/linkedin-0177b5" alt="linkedin"/></a>
+  <a href="http://stackoverflow.com/users/588967/andrea-mario-lufino">
+    <img src="https://img.shields.io/badge/stackoverflow-f48024" alt="stackoverflow"/></a>
+  <a href="https://angel.co/u/andrealufino">
+    <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
+  <a href="https://www.quora.com/profile/Andrea-Mario-Lufino">
+    <img src="https://img.shields.io/badge/quora-a82623" alt="quora"></a>
+  <a href="https://instagram.com/al0890">
+    <img src="https://img.shields.io/badge/instagram-c00188" alt="instagram"></a>
+</p>
+
+#### Highlights
+
+- ⏳ Working on iOS since 2010
+- 🌱 Currently creating my own freelance path, after leaving the empoloyee life. Any help is appreciated!
+- 🥇 iOS and Swift expert
+
 #### Facts
 
 - 🇮🇹 Based in Milan, Italy 🍕 Food is good here 
 - 📱 Apple lover 
 - 🙌🏻 Despite its decline, Objective-C fan 
-- 🥇 Swift lover
 - 💼 Harvey Specter fan 
-- 🌱 Creating a freelance path
 - 💻 Learning Node
-- 🎸 hobbist guitarist
+- 🎸 Hobbist guitarist
 - 🎵 Bruce Springsteen fan
 
-#### Find me
+#### Contact me
 
-- [LinkedIn](https://linkedin.com/in/andrealufino)
-- [Stackoverflow](http://stackoverflow.com/users/588967/andrea-mario-lufino)
-- [Instagram](https://instagram.com/al0890)
-- [Angel](https://angel.co/u/andrealufino)
+Please, feel free to [contact me](mailto:hello@andrealufino.com) to say hi, to discuss an idea or to propose a business. You can find me also on my [website](https://andrealufino.com). 
