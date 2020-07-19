@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src"https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml"/>
+  <img src="https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml" width="30%" height="15%" />
 </p>
 
 <p align="center">
