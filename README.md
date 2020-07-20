@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrealufino/andrealufino/master/AML_Grey.png" alt="aml" width="24%" height="12%" />
+  <img src="https://github.com/andrealufino/andrealufino/blob/master/AML_Horizontal_Rounded_%231.png" alt="aml" />
 </p>
 
 <!-- Spaces -->
