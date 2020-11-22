@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Logo -->
+<!-- Logo Grey on White-->
 <p align="center">
-  <img src="https://github.com/andrealufino/andrealufino/blob/master/AML_Horizontal_Rounded_%231.png" alt="aml" />
+  <img src="https://github.com/andrealufino/andrealufino/blob/master/AML_Horizontal_%232.png" alt="aml" />
 </p>
 
 <!-- Spaces -->
