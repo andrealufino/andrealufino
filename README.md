@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Logo Grey on White-->
 <p align="center">
-  <img src="https://github.com/andrealufino/andrealufino/blob/master/AML_Horizontal_%232.png" alt="aml" />
+  <img src="https://github.com/andrealufino/andrealufino/blob/master/AML_Horizontal_%232 Medium.png" alt="aml" />
 </p>
 
 <!-- Spaces -->
