@@ -69,14 +69,6 @@ Please, feel free to [contact me](mailto:hello@andrealufino.com) to say hi, to d
 
 </br>
 
-<script type='text/javascript'>
-  window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
-    console.log(`changed to ${e.matches ? "dark" : "light"} mode`)
-    <p> HELLLLLLOOOOOOO </p>
-  });
-</script>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrealufino&show_icons=true" />
 </p>
