@@ -54,10 +54,8 @@ Here are some ideas to get you started:
 
 - 🇮🇹 Based in Milan, Italy 🍕 Food is good here 
 - 📱 Apple lover 
-- 🙌🏻 Despite its decline, Objective-C fan 
 - 💼 Harvey Specter fan 
 - 💻 Learning SwiftUI
-- 💻 Learning Node
 - 🎸 Hobbyist guitarist
 - 🎵 Bruce Springsteen fan
 
