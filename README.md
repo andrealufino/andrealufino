@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 
 - 🇮🇹 Based in Milan, Italy 🍕 Food is good here 
 - 📱 Apple lover 
-- 💼 Harvey Specter fan 
-- 💻 Learning SwiftUI
-- 🎸 Hobbyist guitarist
+- 💻 SwiftUI fan
 - 🎵 Bruce Springsteen fan
 
 <!-- Contacts
