@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/website-333333" alt="website"/></a>
   <a href="mailto:hello@andrealufino.com">
     <img src="https://img.shields.io/badge/email-333333" alt="email"/></a>
-  <a href="http://github-awards.com/users/andrealufino" target="_blank">
+  <a href="http://159.100.250.9/users/search?login=andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/github awards-333333" alt="github awards"/></a>
   <a href="https://angel.co/u/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
