@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 #### Highlights
 
 - ⏳ Working on iOS since 2010
-- 🌱 Currently creating my own freelance path, after leaving the empoloyee life. Any help is appreciated!
+- 🌱 Growing my skills and knowledge is always my top priority
 - 🥇 iOS and Swift expert
 - 💻 Tech Leadership Consultant
 
