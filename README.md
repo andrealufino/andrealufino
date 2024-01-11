@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 #### Highlights
 
-- ⏳ Working on iOS since 2010
+- ⏳ Working on iOS since 2010 (and macOS since 2022)
 - 🌱 Growing my skills and knowledge is always my top priority
 - 🥇 iOS and Swift expert
-- 💻 Tech Leadership Consultant
+- 💻 Apple platforms developer
 
 #### Facts
 
