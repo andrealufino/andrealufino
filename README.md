@@ -41,30 +41,55 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/instagram-c00188" alt="instagram"></a>
 </p>
 
-#### Highlights
 
-- ⏳ Working on iOS since 2010 (and macOS since 2022)
-- 🌱 Growing my skills and knowledge is always my top priority
-- 🥇 iOS and Swift expert
-- 💻 Apple platforms developer
+# Hi, I'm Andrea! 👋🏻
 
-#### Facts
+I'm a passionate **iOS Developer** since 2010 and an experienced **macOS Developer** since 2021. My mission is to create efficient, maintainable, and user-centric applications, specializing deeply in Apple's platforms using Swift.
 
-- 🇮🇹 Based in Milan, Italy 🍕 Food is good here 
-- 📱 Apple lover 
-- 💻 SwiftUI fan
-- 🎵 Bruce Springsteen fan
+---
 
-<!-- Contacts
+## 🧑🏻‍💻 Tech Stack
 
-#### Contact me
+- **Languages:** Swift, Objective-C
+- **Frameworks:** SwiftUI, UIKit
+- **Tools:** Xcode, Git, GitHub Actions, Fastlane
+- **Platforms:** iOS, macOS
 
-Please, feel free to [contact me](mailto:hello@andrealufino.com) to say hi, to discuss an idea or to propose a business. You can find me also on my [website](https://andrealufino.com). 
+---
 
--->
+## 🛠️ Open Source Contributions
+
+I actively contribute to open-source projects. Here are some of my popular repositories:
+
+### 📱 [AMLogger](https://github.com/andrealufino/AMLogger)
+
+*A Swift library offering straightforward yet powerful logging capabilities for iOS applications.*
+
+### 📲 [Deviice](https://github.com/andrealufino/Deviice)
+
+*A lightweight Swift library for easy device detection and gathering additional information.*
+
+### ✨ [Luminous](https://github.com/andrealufino/Luminous)
+
+*A comprehensive Swift library to retrieve extensive system and device information.*
+
+---
+
+## 🤝 Connect with Me
+
+- 🌐 [Website](https://andrealufino.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrealufino/)
+- 🔍 [Stack Overflow](https://stackoverflow.com/users/andrealufino)
+
+---
+
+## 🎯 Personal Interests
+
+- 🎶 **Music:** Enthusiastic Bruce Springsteen fan
+- ⚽ **Sports:** Passionate Inter Milan supporter
+
+---
+
+I'm always open to collaborations, discussing Apple technologies, or simply chatting about tech. Don't hesitate to reach out!
 
 </br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrealufino&show_icons=true" />
-</p>
