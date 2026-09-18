@@ -37,8 +37,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github awards-333333" alt="github awards"/></a>
   <a href="https://angel.co/u/andrealufino" target="_blank">
     <img src="https://img.shields.io/badge/angel-000000" alt="angel"/></a>
-  <a href="https://instagram.com/aml14048" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-c00188" alt="instagram"></a>
 </p>
 
 
